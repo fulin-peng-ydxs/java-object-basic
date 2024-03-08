@@ -12,7 +12,7 @@
   <modules>
     <module>java-api</module>
     <module>java-collection</module>
-    <module>Java-io</module>
+    <module>java-io</module>
     <module>java-newsdk</module>
     <module>java-object</module>
     <module>java-reflection</module>
